@@ -19,7 +19,13 @@ This project was developed in the context of Google Cloud Day Lisbon Hackathon: 
 - **AI-Driven Triage**: Leverages the Manchester Triage System to classify patients into different urgency levels, ensuring appropriate care.
 - **Cloud-Based**: Uses Google infrastructure for scalability, security, and updates.
 
+</br>
+
 ![RITA solution flowchart](./img/2024-rita-solution-flowchart.jpg)
+
+<div align="center"><i>Solution flowchart.</i></div>
+
+</br>
   
 ## Benefits & Impact
 ### Social:
